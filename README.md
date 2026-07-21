@@ -3,7 +3,7 @@
 
 ## Модель базы данных
 
-![SQL2](./misc/images/SQL.png)
+![SQL2](./SQL.png)
 
 #### Таблица Peers
 
